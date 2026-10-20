@@ -1,0 +1,11 @@
+node_modules/
+dist/
+shots/
+*.log
+bench/corpus/*.txt
+bench/corpus/*.pdf
+.DS_Store
+public/ort/
+*.tsbuildinfo
+
+content/

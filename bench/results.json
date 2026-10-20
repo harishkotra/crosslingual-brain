@@ -1,0 +1,173 @@
+{
+  "chunks": 158,
+  "h1": 8,
+  "h5": 16,
+  "by": {
+    "en": {
+      "n": 6,
+      "h1": 1,
+      "h5": 6
+    },
+    "hi": {
+      "n": 4,
+      "h1": 1,
+      "h5": 3
+    },
+    "te": {
+      "n": 4,
+      "h1": 4,
+      "h5": 4
+    },
+    "roman": {
+      "n": 4,
+      "h1": 2,
+      "h5": 3
+    }
+  },
+  "rows": [
+    {
+      "lang": "en",
+      "q": "How long do I have to wait before a pre-existing disease is covered?",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.795,
+      "page": "health_policy p10"
+    },
+    {
+      "lang": "en",
+      "q": "What is the daily room rent limit?",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.759,
+      "page": "health_policy p7"
+    },
+    {
+      "lang": "en",
+      "q": "How much does cataract surgery cover per eye?",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.748,
+      "page": "health_policy p7"
+    },
+    {
+      "lang": "en",
+      "q": "Is AYUSH treatment covered in this policy?",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.841,
+      "page": "health_policy p2"
+    },
+    {
+      "lang": "en",
+      "q": "What is covered after I get discharged from hospital?",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.765,
+      "page": "health_policy p19"
+    },
+    {
+      "lang": "en",
+      "q": "What is the ICU daily limit?",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.798,
+      "page": "health_policy p4"
+    },
+    {
+      "lang": "hi",
+      "q": "पहले से मौजूद बीमारी के लिए कितने महीने इंतज़ार करना पड़ता है",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.744,
+      "page": "health_policy p10"
+    },
+    {
+      "lang": "hi",
+      "q": "कमरे का किराया रोज़ कितना मिलता है",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.714,
+      "page": "health_policy p7"
+    },
+    {
+      "lang": "hi",
+      "q": "मोतियाबिंद के ऑपरेशन में कितना कवर मिलता है",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.717,
+      "page": "health_policy p7"
+    },
+    {
+      "lang": "hi",
+      "q": "डिस्चार्ज के बाद कौन सी दवा शुरू की गई",
+      "hit1": false,
+      "hit5": false,
+      "score": 0.703,
+      "page": "discharge_summary p3"
+    },
+    {
+      "lang": "te",
+      "q": "ముందే ఉన్న జబ్బుకు ఎన్ని నెలలు వేచి ఉండాలి",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.705,
+      "page": "health_policy p9"
+    },
+    {
+      "lang": "te",
+      "q": "గది అద్దె రోజుకి ఎంత",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.653,
+      "page": "health_policy p21"
+    },
+    {
+      "lang": "te",
+      "q": "కంటిశుక్లం ఆపరేషన్ కి ఎంత కవర్ ఉంటుంది",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.682,
+      "page": "health_policy p8"
+    },
+    {
+      "lang": "te",
+      "q": "పేషెంట్ ఏ జబ్బుతో ఆసుపత్రిలో చేరారు",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.687,
+      "page": "discharge_summary p1"
+    },
+    {
+      "lang": "roman",
+      "q": "pre existing disease ki waiting period entha",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.776,
+      "page": "health_policy p10"
+    },
+    {
+      "lang": "roman",
+      "q": "room rent limit per day entha",
+      "hit1": false,
+      "hit5": true,
+      "score": 0.763,
+      "page": "health_policy p7"
+    },
+    {
+      "lang": "roman",
+      "q": "motiyabind operation ki kitna milta hai",
+      "hit1": false,
+      "hit5": false,
+      "score": 0.662,
+      "page": "health_policy p7"
+    },
+    {
+      "lang": "roman",
+      "q": "discharge ke baad kitne din ka kharcha milta hai",
+      "hit1": true,
+      "hit5": true,
+      "score": 0.732,
+      "page": "health_policy p21"
+    }
+  ]
+}

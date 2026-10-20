@@ -1,0 +1,33 @@
+{
+  "name": "crosslingual-brain",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "Harish Kotra",
+  "main": "src/main.tsx",
+  "scripts": {
+    "predev": "node scripts/copy-ort.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/copy-ort.mjs",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --port 4173",
+    "bench": "node bench/bench2.mjs"
+  },
+  "keywords": [],
+  "author": "Harish Kotra",
+  "license": "MIT",
+  "description": "Ask in Telugu or Hindi, get the answer out of your English PDFs. Fully on-device.",
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.1",
+    "pdfjs-dist": "^6.4.299",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
