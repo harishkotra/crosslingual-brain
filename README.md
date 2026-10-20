@@ -3,7 +3,9 @@
 Ask a question in Telugu, Hindi or Hinglish and get the answer out of English PDFs you own. The model,
 the vectors and the answering all happen inside the browser tab. No server, no account, no upload.
 
----
+<img width="2076" height="4904" alt="screencapture-127-0-0-1-5173-2026-10-20-10_47_52" src="https://github.com/user-attachments/assets/c2aec1f8-fa98-4c73-b2d5-978a834b915b" />
+<img width="2076" height="1892" alt="screencapture-127-0-0-1-5173-2026-10-20-10_46_38" src="https://github.com/user-attachments/assets/057cc714-4e1e-47fa-b8ff-e865f497110d" />
+<img width="1280" height="694" alt="Cap 2026-10-20 at 10 47 37" src="https://github.com/user-attachments/assets/caf2143a-4599-4fbe-bed5-af445221b345" />
 
 ## Why this exists
 
