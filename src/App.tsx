@@ -201,7 +201,7 @@ export default function App() {
   return (
     <div className="wrap">
       <header className="hero">
-        <div className="kicker">DailyBuild · Day 287 · EmbeddingGemma 2</div>
+        <div className="kicker">DailyBuild · Day 289 · EmbeddingGemma 2</div>
         <h1>
           Ask in Telugu. <br />
           Answer from your English PDFs.
